@@ -1,0 +1,1 @@
+I am on MacOS, so for the first exercise users of Linux and MacOS don't have to do anything special :)
