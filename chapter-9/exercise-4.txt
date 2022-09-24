@@ -1,0 +1,2 @@
+To brute force the first password it will take : 234 million years
+To brute force the second password it will take : 892 years
