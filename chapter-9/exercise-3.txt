@@ -1,0 +1,1 @@
+As the entropy of the first password if bigger then the second one, it sould be harder to brute force the first one, so probably it will be better.

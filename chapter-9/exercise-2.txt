@@ -1,0 +1,7 @@
+As we know from the previous exercise the Entropy formula is L * log2(R)
+
+Here we have password from alphanumeric characters and they can be upper and lower case, at the very end we have 72 characters, and R = 72.
+
+As the password consist of the 8 characters then we have L = 8, so we can count an enthropy.
+
+Enthropy = 49.36

@@ -1,0 +1,8 @@
+The formula of Entropy is log2(R^L) where R is size of pool (number of unique characters from which the password consists)
+
+As we have 100 000 words dictionary it will be our R and as the password consists of 4 random words the L will be 4.
+
+After simplifing the formula we get Entropy = L * log2(R) = 66.4.
+
+Entropy = 66.4
+
